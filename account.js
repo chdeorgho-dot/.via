@@ -1,25 +1,28 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME :YT Topup
 // =======================================================
-var website_name = "YASIN";
+var website_name =yt topup
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
-// =======================================================
-var telegram_channel_link = "telegram channel link";
+// Instagram id.taapscndrede
 
 // =======================================================
-// TELEGRAM GROUP LINK
-// =======================================================
-var telegram_group_link = "telegram group link";
+Facebook id.তাপস চন্দ্র দে
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// WhatsApp link:yt.group 
+mobile no.01607151311
+// =====================================================
+WhatsApp no. 01607151311
+// ====================================================
+// YOUTUBE CHANNEL LINK.https://www.youtube.com/@fireargho
 // =======================================================
 var youtube_channel_link = "YouTube channel link";
-
+https://www.youtube.com/@fireargho
 // =======================================================
-// NOTIFICATION TEXT
+// NOTIFICATION TEXT.Helo everyone me argho ami tomather jano 
+ami akta tomather jono daimound topup site kolce tomra chile 
+akan thake Daimond topup korte paro
 // =======================================================
 var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
